@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\source\\repos\\efcore\\efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\source\\repos\\efcore\\efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:20:33.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:13:28.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
