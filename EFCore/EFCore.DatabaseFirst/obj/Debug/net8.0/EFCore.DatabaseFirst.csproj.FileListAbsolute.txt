@@ -125,3 +125,10 @@ C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\run
 C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\obj\Debug\net8.0\EFCore.D.0230F4C7.Up2Date
 C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\obj\Debug\net8.0\EFCore.DatabaseFirst.genruntimeconfig.cache
 C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\obj\Debug\net8.0\ref\EFCore.DatabaseFirst.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\bin\Debug\net8.0\appsettings.json
