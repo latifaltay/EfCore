@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6Tr5CCxrKw=",
+  "dgSpecHash": "ZaSTu/kJUPo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
+  "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

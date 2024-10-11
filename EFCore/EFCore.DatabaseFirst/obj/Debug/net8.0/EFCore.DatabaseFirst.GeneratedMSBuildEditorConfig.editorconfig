@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EFCore.DatabaseFirst
-build_property.ProjectDir = C:\Users\ELEYDEV\source\repos\EFCore\EFCore.DatabaseFirst\
+build_property.ProjectDir = C:\Users\ELEYDEV\Desktop\EFCORE\EFCore\EFCore.DatabaseFirst\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

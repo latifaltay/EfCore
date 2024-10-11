@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj": {}
+    "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj": {
+    "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
+        "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
         "projectName": "EFCore.DatabaseFirst",
-        "projectPath": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
+        "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj",
         "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELEYDEV\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\obj\\",
+        "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
