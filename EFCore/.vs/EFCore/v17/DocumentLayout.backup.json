@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirst\\dal\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0012B027-6C6B-42F0-A837-1FF76C0343B2}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B83684B7-F854-4A09-95F1-4A9A396955F4}|EfCore.DatabaseFirstByScaffold\\EfCore.DatabaseFirstByScaffold.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83684B7-F854-4A09-95F1-4A9A396955F4}|EfCore.DatabaseFirstByScaffold\\EfCore.DatabaseFirstByScaffold.csproj|solutionrelative:efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbContextInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
-              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
-              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAACRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:54:53.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
-              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\Program.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
-              "RelativeToolTip": "EFCore.DatabaseFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EfCore.DatabaseFirstByScaffold\\Program.cs",
+              "RelativeDocumentMoniker": "EfCore.DatabaseFirstByScaffold\\Program.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EfCore.DatabaseFirstByScaffold\\Program.cs*",
+              "RelativeToolTip": "EfCore.DatabaseFirstByScaffold\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:54:22.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\appsettings.json",
-              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\appsettings.json",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\appsettings.json",
-              "RelativeToolTip": "EFCore.DatabaseFirst\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T00:50:35.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\Product.cs",
-              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\Product.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\Product.cs",
-              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:32:48.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:20:33.376Z",
+              "WhenOpened": "2024-10-11T01:34:58.834Z",
               "EditorCaption": ""
             }
           ]
