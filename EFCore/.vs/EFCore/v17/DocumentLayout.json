@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B83684B7-F854-4A09-95F1-4A9A396955F4}|EfCore.DatabaseFirstByScaffold\\EfCore.DatabaseFirstByScaffold.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83684B7-F854-4A09-95F1-4A9A396955F4}|EfCore.DatabaseFirstByScaffold\\EfCore.DatabaseFirstByScaffold.csproj|solutionrelative:efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EfCore.DatabaseFirstByScaffold\\Program.cs",
-              "RelativeDocumentMoniker": "EfCore.DatabaseFirstByScaffold\\Program.cs",
-              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EfCore.DatabaseFirstByScaffold\\Program.cs",
-              "RelativeToolTip": "EfCore.DatabaseFirstByScaffold\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Program.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:34:58.834Z",
+              "WhenOpened": "2024-10-14T22:41:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Product.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\DAL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:40:00.193Z",
               "EditorCaption": ""
             }
           ]
