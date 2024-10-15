@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EfCore.DatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f438ca6d56fb141cbb8866975a9b06bab5dd9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7450fa03b7960dab0ac760db332169a9c8eab5b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfCore.DatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfCore.DatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
