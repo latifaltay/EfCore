@@ -18,6 +18,18 @@ namespace EFCore.CodeFirst.DAL
             optionsBuilder.UseSqlServer(Initializer.Configuration.GetConnectionString("sqlcon"));
         }
 
+        // Entity Options Change Wit Fluent API
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // DB Table Name Change With Fluent API (DB Schema is optional)
+            //modelBuilder.Entity<Product>().ToTable("ProductTable", "ProductTableSchema");
+
+            // Haskey ile ef core'un davranışlarına uymayan propertyleri primary key olarak set edebiliyoruz
+            //modelBuilder.Entity<Product>().HasKey(x => x.Id);
+
+            base.OnModelCreating(modelBuilder);
+        }
+
 
         //public override int SaveChanges()
         //{
