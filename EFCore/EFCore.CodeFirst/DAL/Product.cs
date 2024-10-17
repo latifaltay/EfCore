@@ -22,5 +22,15 @@ namespace EFCore.CodeFirst.DAL
         public int Stock { get; set; }
         public int Barcode { get; set; }
         public DateTime? CreatedDate { get; set; }
+
+        public int CategoryId { get; set; }
+
+        //// Navigation Property
+        // one to many relation with attribute
+        // attribute ile ilişki kurulduğunda hem int CategoryId hem de Category tipinde category property'sine ihtiyacımız var
+        [ForeignKey("CategoryId")]
+        public Category Category { get; set; }
+
+        public ProductFeature ProductFeature { get; set; }
     }
 }

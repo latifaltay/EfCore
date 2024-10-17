@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|c:\\users\\eleydev\\desktop\\efcore\\efcore\\efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7795590-9799-409E-B190-093AC067BB07}|EFCore.CodeFirst\\EFCore.CodeFirst.csproj|solutionrelative:efcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Teacher.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Teacher.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\DAL\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:16:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Student.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\Student.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Student.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:16:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241017005518_add_mig_for_category_table_3.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\Migrations\\20241017005518_add_mig_for_category_table_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:55:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductFeature.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\ProductFeature.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\ProductFeature.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\ProductFeature.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\DAL\\ProductFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:52:01.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Category.cs",
+              "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\Category.cs",
+              "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Category.cs",
+              "RelativeToolTip": "EFCore.CodeFirst\\DAL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:21:10.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "EFCore.CodeFirst\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:17:13.946Z"
+              "WhenOpened": "2024-10-14T23:17:13.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "EFCore.CodeFirst\\Program.cs",
               "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\Program.cs",
               "RelativeToolTip": "EFCore.CodeFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T22:41:11.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Product.cs",
               "RelativeDocumentMoniker": "EFCore.CodeFirst\\DAL\\Product.cs",
               "ToolTip": "C:\\Users\\ELEYDEV\\Desktop\\EFCORE\\EFCore\\EFCore.CodeFirst\\DAL\\Product.cs",
               "RelativeToolTip": "EFCore.CodeFirst\\DAL\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T22:40:00.193Z"
+              "WhenOpened": "2024-10-14T22:40:00.193Z",
+              "EditorCaption": ""
             }
           ]
         }
